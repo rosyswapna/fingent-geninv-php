@@ -1,1 +1,1 @@
-# fingent-geninv-php
+# Generate Invoice PHP
